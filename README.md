@@ -1,6 +1,7 @@
 # kp2csv
 
-usage:
+module: pip install pykeepass
 
-kp2csv file_kdbx password
+usage:
+kp2csv filekeepass.kdbx password
 
